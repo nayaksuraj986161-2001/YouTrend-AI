@@ -10,7 +10,7 @@ The platform enables users to explore YouTube trending data, predict whether a v
 ## 🌐 Live Demo
 
 🔗 **Streamlit App:**  
-https://nayaksuraj986161-36ghjmrz2mpgyuf6wvkcp.streamlit.app
+https://youtube-trending-ai.streamlit.app
 
 🔗 **GitHub Repository:**  
 https://github.com/nayaksuraj986161-2001/YouTrend-AI
