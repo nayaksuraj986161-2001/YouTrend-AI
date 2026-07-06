@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+Power BI/
+notebooks/
+reports/
+
+models/upload_time_predictor.pkl
+
+*.pbix
+
+.env
